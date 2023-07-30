@@ -1,4 +1,5 @@
-# ShortProject-VC
-Treball realitzat juntament amb [Joan Caballero](https://github.com/JoanK11)
+# VC
+Company de laboratori: [Joan Caballero](https://github.com/JoanK11)
 
-Nota: 10/10
+Nota laboratoris: 8.9/10
+Nota SP: 10/10
